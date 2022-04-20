@@ -1,4 +1,4 @@
-#Hi There, I'm Pedro Rosa 👏
+# Hi There, I'm Pedro Rosa 👏
 -
 * 🧮 Mathematics and Physics student
 * 📘 Currently studying mobile development with Dart and Flutter
