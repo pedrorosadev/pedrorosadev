@@ -2,4 +2,5 @@
 
 * 🧮 Mathematics and Physics student
 * 📘 Currently studying mobile development with Dart and Flutter
-* 💻 Currently I study web development with html5, css3 and javascript
+* 💻 Currently I study web development with HTML, CSS and Javascript
+* 🐍 I am currently studying Python
